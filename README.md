@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🟥 Dejv1d0 🟥
 
-<!--
-**Dejv1d0/Dejv1d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔑 PGP
 
-Here are some ideas to get you started:
+Fingerprint: 7110 108B 6E6C 6504 68F2 90DD 2895 664A CFFE 5F13
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>Pełny klucz publiczny</summary>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaniyqhYJKwYBBAHaRw8BAQdAerFWRxk5PbP0RA6XxK0AnGp/lcvSBku3S1iL
+IM+YV/K0B0RlanYxZDCImQQTFgoAQRYhBHEQEItubGUEaPKQ3SiVZkrP/l8TBQJq
+eLKqAhsDBQkFpIj2BQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJECiVZkrP
+/l8TwVwBAKVDS+F8bC2tqxoecWNI1IvV1lLt9KImU1sUKQi1LUPsAP0eURk5duRA
+wWGR21bBxTyuFz3RHtgKIXXXmoTwpxx4Abg4BGp4sqoSCisGAQQBl1UBBQEBB0Db
+nyq8ZKxeKGdE+ixt9N5OmZewuOLrE9gcPGoqmcOwLAMBCAeIfgQYFgoAJhYhBHEQ
+EItubGUEaPKQ3SiVZkrP/l8TBQJqeLKqAhsMBQkFpIj2AAoJECiVZkrP/l8TjEMA
+/360VHTadVSdSOKbBsKO5YYR7RnjFDnfrWMfbRql482AAP9jd/ubSyavAr0Fbb5Z
++RKCvyOzYadt0eW0BKBrJByhBw==
+=9W0j
+-----END PGP PUBLIC KEY BLOCK-----
+</details>
