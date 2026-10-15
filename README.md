@@ -1,12 +1,7 @@
 ## 🟥 Dejv1d0 🟥
 
-## 🔑 PGP
-
-Fingerprint: 7110 108B 6E6C 6504 68F2 90DD 2895 664A CFFE 5F13
-
+##🔑 PGP
 <details>
-<summary>Pełny klucz publiczny</summary>
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: Identyfikator użytkownika:	Dejv1d0
