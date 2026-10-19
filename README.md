@@ -1,5 +1,6 @@
+<p align="center">
 # 🟥 Dejv1d0 🟥
-
+</p>
 <p align="center">
   <samp>SOFTWARE DEVELOPMENT · LINUX · NETWORKING · CYBERSECURITY</samp>
 </p>
