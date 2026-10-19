@@ -3,12 +3,14 @@
 <samp>SOFTWARE DEVELOPMENT · LINUX · NETWORKING · CYBERSECURITY</samp>
 
 
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-333333?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-333333?style=flat-square&logo=openai&logoColor=white" />
 
 
 ---
